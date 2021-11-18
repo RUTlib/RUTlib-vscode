@@ -2,6 +2,8 @@
 
 **Extension for generating and formatting RUTs (Chilean identification numbers)**
 
+![Logo Rutlib](https://github.com/RUTlib/RUTlib-vscode/blob/main/images/rutliblogo.png?raw=true)
+
 
 ### [**Vscode's marketplace link**](https://marketplace.visualstudio.com/items?itemName=fvergaracl.rutlib)
 
