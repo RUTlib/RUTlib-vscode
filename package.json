@@ -1,16 +1,29 @@
 {
   "name": "rutlib",
   "displayName": "RUTLib",
+  "repository":"https://github.com/RUTlib/RUTlib-vscode",
   "description": "Extension for generating and formatting RUTs",
-  "version": "0.0.1",
+  "icon": "https://github.com/RUTlib/RUTlib-vscode/blob/main/images/rutliblogo.png?raw=true",
+  "version": "0.0.2",
+  "publisher":"fvergaracl",
+  "license":"MIT",
   "engines": {
     "vscode": "^1.62.0"
   },
   "categories": [
+    "Debuggers",
+    "Snippets",
     "Other"
   ],
+  "keywords": [
+    "validar",
+    "rut",
+    "identificación",
+    "chile",
+    "node"
+  ],
   "activationEvents": [
-    "onCommand:rutlib.vscode"
+    "onStartupFinished"
   ],
   "main": "./dist/extension.js",
   "contributes": {

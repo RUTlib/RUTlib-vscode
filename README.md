@@ -9,7 +9,7 @@ Show generator RUTs in status bar bassed on [RUTlib-js](https://github.com/RUTli
 
 ## How to use
 
-![Alt Text](usage_example.gif)
+![Alt Text](https://github.com/RUTlib/RUTlib-vscode/blob/main/usage_example.gif?raw=true)
 
 ## Known Issues
 
