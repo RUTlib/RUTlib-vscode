@@ -3,6 +3,8 @@
 **Extension for generating and formatting RUTs (Chilean identification numbers)**
 
 
+### [**Vscode's marketplace link**](https://marketplace.visualstudio.com/items?itemName=fvergaracl.rutlib)
+
 Show generator RUTs in status bar bassed on [RUTlib-js](https://github.com/RUTlib/rutlib-js)
 
 
