@@ -41,4 +41,13 @@ Ensure that you've read through the extensions guidelines and follow the best pr
 * [Visual Studio Code's Markdown Support](http://code.visualstudio.com/docs/languages/markdown)
 * [Markdown Syntax Reference](https://help.github.com/articles/markdown-basics/)
 
+## Support the Project
+
+[!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/fvergaracl)
+
+## If you'd like to contribute
+
+Send me an email to rutlibteam@gmail.com o send me a DM
+
+
 **Enjoy!**
