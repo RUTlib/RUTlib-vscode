@@ -11,7 +11,7 @@
   "homepage":"https://github.com/RUTlib/RUTlib-vscode/blob/main/README.md",
   "description": "Extension for generating and formatting RUTs",
   "icon": "images/rutliblogo.png",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "publisher":"fvergaracl",
   "license":"MIT",
   "engines": {
